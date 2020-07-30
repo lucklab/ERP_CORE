@@ -1,0 +1,47 @@
+Bin 1
+Incorrect, All Trials	After AR		
+.{11;12;21;22}{t<200-1000>211;112;221;122:f<0>:rt<"Incorrect, All">}
+
+Bin 2
+Correct, All Trials	After AR	
+.{11;12;21;22}{t<200-1000>111;212;121;222:f<0>:rt<"Correct, All">}
+
+Bin 3
+Compatible Flankers, Incorrect After AR		
+.{11;12}{t<200-1000>211;112:f<0>:rt<"Compatible, Incorrect">}
+
+Bin 4
+Compatible Flankers, Correct After AR		
+.{11;12}{t<200-1000>111;212:f<0>:rt<"Compatible, Correct">}
+
+Bin 5
+Incompatible Flankers, Incorrect After AR		
+.{21;22}{t<200-1000>221;122:f<0>:rt<"Incompatible, Incorrect">}
+
+Bin 6
+Incompatible Flankers, Correct After AR	
+.{21;22}{t<200-1000>121;222:f<0>:rt<"Incompatible, Correct">}
+
+Bin 7
+Incorrect, All Trials	Before AR		
+.{11;12;21;22}{t<200-1000>211;112;221;122:rt<"Incorrect, All">}
+
+Bin 8
+Correct, All Trials	Before AR	
+.{11;12;21;22}{t<200-1000>111;212;121;222:rt<"Correct, All">}
+
+Bin 9
+Compatible Flankers, Incorrect Before AR		
+.{11;12}{t<200-1000>211;112:rt<"Compatible, Incorrect">}
+
+Bin 10
+Compatible Flankers, Correct Before AR		
+.{11;12}{t<200-1000>111;212:rt<"Compatible, Correct">}
+
+Bin 11
+Incompatible Flankers, Incorrect Before AR		
+.{21;22}{t<200-1000>221;122:rt<"Incompatible, Incorrect">}
+
+Bin 12
+Incompatible Flankers, Correct Before AR	
+.{21;22}{t<200-1000>121;222:rt<"Incompatible, Correct">}

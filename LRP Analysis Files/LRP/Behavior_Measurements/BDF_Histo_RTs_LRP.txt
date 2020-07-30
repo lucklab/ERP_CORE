@@ -1,0 +1,7 @@
+Bin 1
+Left Response, All Correct (Before AR, no RT filt)
+.{11;21}{111;121:rt<"Left, All Correct">}
+
+Bin 2
+Right Response, All Correct (Before AR, no RT filt)
+.{12;22}{212;222:rt<"Right, All Correct">}

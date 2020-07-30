@@ -1,0 +1,7 @@
+Bin 1
+All Unrelated, Correct
+.{221;222}{t<200-1500>201}
+
+Bin 2
+All Related, Correct
+.{211;212}{t<200-1500>201}

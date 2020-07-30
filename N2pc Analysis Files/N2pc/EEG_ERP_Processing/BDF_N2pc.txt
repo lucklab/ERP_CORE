@@ -1,0 +1,23 @@
+bin 1
+Left Target, All Target Colors
+.{111;112;211;212}{t<200-1000>201}
+
+bin 2
+Right Target, All Target Colors
+.{121;122;221;222}{t<200-1000>201}
+
+bin 3
+Left Target, Blue
+.{111;112}{t<200-1000>201}
+
+bin 4
+Right Target, Blue
+.{121;122}{t<200-1000>201}
+
+bin 5
+Left Target, Pink
+.{211;212}{t<200-1000>201}
+
+bin 6
+Right Target, Pink
+.{221;222}{t<200-1000>201}

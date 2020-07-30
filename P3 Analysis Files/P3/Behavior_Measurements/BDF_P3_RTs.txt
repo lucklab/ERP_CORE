@@ -1,0 +1,31 @@
+bin 1
+Rare, Correct after AR
+.{11;22;33;44;55:f<0>}{t<200-1000>201:rt<"Rare, Correct">}
+
+bin 2
+Frequent, Correct after AR
+.{12;13;14;15;21;23;24;25;31;32;34;35;41;42;43;45;51;52;53;54:f<0>}{t<200-1000>201:rt<"Frequent, Correct">}
+
+bin 3
+Rare, Incorrect after AR
+.{11;22;33;44;55:f<0>}{t<200-1000>202:rt<"Rare, Incorrect">}
+
+bin 4
+Frequent, Incorrect after AR
+.{12;13;14;15;21;23;24;25;31;32;34;35;41;42;43;45;51;52;53;54:f<0>}{t<200-1000>202:rt<"Frequent, Incorrect">}
+
+bin 5
+Rare, Correct before AR
+.{11;22;33;44;55}{t<200-1000>201:rt<"Rare, Correct Correct">}
+
+bin 6
+Frequent, Correct before AR
+.{12;13;14;15;21;23;24;25;31;32;34;35;41;42;43;45;51;52;53;54}{t<200-1000>201:rt<"Frequent, Correct">}
+
+bin 7
+Rare, Incorrect before AR
+.{11;22;33;44;55}{t<200-1000>202:rt<"Rare, Incorrect">}
+
+bin 8
+Frequent, Incorrect before AR
+.{12;13;14;15;21;23;24;25;31;32;34;35;41;42;43;45;51;52;53;54}{t<200-1000>202:rt<"Frequent, Incorrect">}

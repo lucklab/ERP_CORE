@@ -1,0 +1,11 @@
+LH = [1,2,3,4,5,6,7,8,9,10,11]         
+RH = [15,17,18,19,22,23,24,25,26,27,28]
+nb1 = ((b1@RH+b2@LH)/2 - (b1@LH+b2@RH)/2) label Contra minus Ipsi, All
+nb2 = ((b3@RH+b4@LH)/2 - (b3@LH+b4@RH)/2) label Contra minus Ipsi, Blue
+nb3 = ((b5@RH+b6@LH)/2 - (b5@LH+b6@RH)/2) label Contra minus Ipsi, Pink
+nb4 = ((b1@RH+b2@LH)/2) label Contra, All                                          
+nb5 = ((b1@LH+b2@RH)/2) label Ipsi, All  
+nb6 = ((b3@RH+b4@LH)/2) label Contra, Blue                                            
+nb7 = ((b3@LH+b4@RH)/2) label Ipsi, Blue                                                
+nb8 = ((b5@RH+b6@LH)/2) label Contra, Pink                                                
+nb9 = ((b5@LH+b6@RH)/2) label Ipsi, Pink                                               

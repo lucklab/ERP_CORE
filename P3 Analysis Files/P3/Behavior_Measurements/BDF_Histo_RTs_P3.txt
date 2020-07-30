@@ -1,0 +1,7 @@
+bin 1
+Rare, Correct (Before AR, no RT filt)	
+.{11;22;33;44;55}{201:rt<"Rare, Correct">}
+
+bin 2
+Frequent, Correct (Before AR, no RT filt)	
+.{12;13;14;15;21;23;24;25;31;32;34;35;41;42;43;45;51;52;53;54}{201:rt<"Frequent, Correct">}

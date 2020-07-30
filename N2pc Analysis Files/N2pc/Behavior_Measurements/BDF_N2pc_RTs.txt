@@ -1,0 +1,31 @@
+bin 1
+Left Target, All Target Colors Correct after AR				
+.{111;112;211;212:f<0>}{t<200-1000>201:rt<"Left, All Correct">}
+
+bin 2
+Right Target, All Target Colors Correct after AR				
+.{121;122;221;222:f<0>}{t<200-1000>201:rt<"Right, All Correct">}
+
+bin 3
+Left Target, All Target Colors Incorrect after AR			
+.{111;112;211;212:f<0>}{t<200-1000>202:rt<"Left, All Incorrect">}
+
+bin 4
+Right Target, All Target Colors Incorrect after AR			
+.{121;122;221;222:f<0>}{t<200-1000>202:rt<"Right, All Incorrect">}
+
+bin 5
+Left Target, All Target Colors Correct before AR				
+.{111;112;211;212}{t<200-1000>201:rt<"Left, All Correct">}
+
+bin 6
+Right Target, All Target Colors Correct before AR				
+.{121;122;221;222}{t<200-1000>201:rt<"Right, All Correct">}
+
+bin 7
+Left Target, All Target Colors Incorrect before AR			
+.{111;112;211;212}{t<200-1000>202:rt<"Left, All Incorrect">}
+
+bin 8
+Right Target, All Target Colors Incorrect before AR			
+.{121;122;221;222}{t<200-1000>202:rt<"Right, All Incorrect">}

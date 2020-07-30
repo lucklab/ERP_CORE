@@ -1,0 +1,7 @@
+Bin 1
+All Trials, Incorrect (Before AR, no RT filt)			
+.{11;12;21;22}{211;112;221;122:rt<"All Incorrect">}
+
+Bin 2
+All Trials, Correct	(Before AR, no RT filt)	
+.{11;12;21;22}{111;212;121;222:rt<"All Correct">}

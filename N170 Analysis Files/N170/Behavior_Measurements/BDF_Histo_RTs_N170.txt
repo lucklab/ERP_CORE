@@ -1,0 +1,7 @@
+bin 01
+Faces, Correct (Before AR, no RT filt)			
+.{1-40}{201:rt<"All Faces, Correct">}
+
+bin 02
+Cars, Correct (Before AR, no RT filt)		
+.{41-80}{201:rt<"All Cars, Correct">}

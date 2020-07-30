@@ -1,0 +1,24 @@
+Bin 1
+Incorrect, All Trials
+{t<200-1000>11;12;21;22}.{211;112;221;122}
+
+Bin 2
+Correct, All Trials	
+{t<200-1000>11;12;21;22}.{111;212;121;222}
+
+Bin 3
+Compatible Flankers, Incorrect	
+{t<200-1000>11;12}.{211;112}
+
+Bin 4
+Compatible Flankers, Correct
+{t<200-1000>11;12}.{111;212}
+
+Bin 5
+Incompatible Flankers, Incorrect
+{t<200-1000>21;22}.{221;122}
+
+Bin 6
+Incompatible Flankers, Correct
+{t<200-1000>21;22}.{121;222}
+

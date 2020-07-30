@@ -1,0 +1,7 @@
+bin 1
+Left Target, All Target Colors (Before AR, no RT filt)			
+.{111;112;211;212}{201:rt<"Left, All Correct">}
+
+bin 2
+Right Target, All Target Colors (Before AR, no RT filt)				
+.{121;122;221;222}{201:rt<"Right, All Correct">}

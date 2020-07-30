@@ -1,0 +1,31 @@
+Bin 1
+All Unrelated, Correct after AR
+.{221;222:f<0>}{t<200-1500>201:rt<"Unrelated Correct">}
+
+Bin 2
+All Related, Correct after AR		
+.{211;212:f<0>}{t<200-1500>201:rt<"Related Correct">}
+
+Bin 3
+All Unrelated, Incorrect after AR
+.{221;222:f<0>}{t<200-1500>202:rt<"Unrelated Incorrect">}
+
+Bin 4
+All Related, Incorrect after AR
+.{211;212:f<0>}{t<200-1500>202:rt<"Related Incorrect">}
+
+Bin 5
+All Unrelated, Correct no AR
+.{221;222}{t<200-1500>201:rt<"Unrelated Correct">}
+
+Bin 6
+All Related, Correct no AR		
+.{211;212}{t<200-1500>201:rt<"Related Correct">}
+
+Bin 7
+All Unrelated, Incorrect no AR
+.{221;222}{t<200-1500>202:rt<"Unrelated Incorrect">}
+
+Bin 8
+All Related, Incorrect no AR
+.{211;212}{t<200-1500>202:rt<"Related Incorrect">}

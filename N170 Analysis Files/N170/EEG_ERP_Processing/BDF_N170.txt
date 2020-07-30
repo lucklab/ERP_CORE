@@ -1,0 +1,15 @@
+bin 1
+Faces, Correct
+.{1-40}{t<200-1000>201}
+
+bin 2
+Cars, Correct
+.{41-80}{t<200-1000>201}
+
+bin 3
+Scrambled Faces, Correct
+.{101-140}{t<200-1000>201}
+
+bin 4
+Scrambled Cars, Correct
+.{141-180}{t<200-1000>201}

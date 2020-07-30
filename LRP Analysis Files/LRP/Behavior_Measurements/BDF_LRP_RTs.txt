@@ -1,0 +1,71 @@
+Bin 1
+Left Response, All Correct After AR	
+.{11;21}{t<200-1000>111;121:f<0>:rt<"Left, All Correct">}
+
+Bin 2
+Right Response, All Correct After AR	
+.{12;22}{t<200-1000>212;222:f<0>:rt<"Right, All Correct">}
+
+Bin 3
+Left Response, Compatible Flankers Correct After AR		
+.{11}{t<200-1000>111:f<0>:rt<"Left Compatible, Correct">}
+
+Bin 4
+Left Response, Incompatible Flankers Correct After AR		
+.{21}{t<200-1000>121:f<0>:rt<"Left Incompatible, Correct">}
+
+Bin 5
+Right Response, Compatible Flankers Correct After AR		
+.{12}{t<200-1000>212:f<0>:rt<"Right Compatible, Correct">}
+
+Bin 6
+Right Response, Incompatible Flankers Correct After AR	
+.{22}{t<200-1000>222:f<0>:rt<"Right Incompatible, Correct">}
+
+Bin 7
+Left Response, All Correct before AR	
+.{11;21}{t<200-1000>111;121:rt<"Left, All Correct">}
+
+Bin 8
+Right Response, All Correct before AR	
+.{12;22}{t<200-1000>212;222:rt<"Right, All Correct">}
+
+Bin 9
+Left Response, Compatible Flankers Correct before AR	
+.{11}{t<200-1000>111:rt<"Left Compatible, Correct">}
+
+Bin 10
+Left Response, Incompatible Flankers Correct before AR		
+.{21}{t<200-1000>121:rt<"Left Incompatible, Correct">}
+
+Bin 11
+Right Response, Compatible Flankers Correct before AR	
+.{12}{t<200-1000>212:rt<"Right Compatible, Correct">}
+
+Bin 12
+Right Response, Incompatible Flankers Correct before AR	
+.{22}{t<200-1000>222:rt<"Right Incompatible, Correct">}
+
+Bin 13
+Left Response, All Incorrect before AR	
+.{11;21}{t<200-1000>211;112;221;122:rt<"Left, All Incorrect">}
+
+Bin 14
+Right Response, All Incorrect before AR		
+.{12;22}{t<200-1000>211;112;221;122:rt<"Right, All Incorrect">}
+
+Bin 15
+Left Response, Compatible Flankers Incorrect before AR		
+.{11}{t<200-1000>211;112;221;122:rt<"Left Compatible, Incorrect">}
+
+Bin 16
+Left Response, Incompatible Flankers Incorrect before AR		
+.{21}{t<200-1000>211;112;221;122:rt<"Left Incompatible, Incorrect">}
+
+Bin 17
+Right Response, Compatible Flankers Incorrect before AR		
+.{12}{t<200-1000>211;112;221;122:rt<"Right Compatible, Incorrect">}
+
+Bin 18
+Right Response, Incompatible Flankers Incorrect before AR	
+.{22}{t<200-1000>211;112;221;122:rt<"Right Incompatible, Incorrect">}

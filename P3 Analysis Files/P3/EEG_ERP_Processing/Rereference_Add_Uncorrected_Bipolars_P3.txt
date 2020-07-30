@@ -1,0 +1,36 @@
+nch1 = ch1 - ( (ch9 + ch27)/2 ) Label FP1   
+nch2 = ch2 - ( (ch9 + ch27)/2 ) Label F3  
+nch3 = ch3 - ( (ch9 + ch27)/2 ) Label F7    
+nch4 = ch4 - ( (ch9 + ch27)/2 ) Label FC3    
+nch5 = ch5 - ( (ch9 + ch27)/2 ) Label C3   
+nch6 = ch6 - ( (ch9 + ch27)/2 ) Label C5    
+nch7 = ch7 - ( (ch9 + ch27)/2 ) Label P3    
+nch8 = ch8 - ( (ch9 + ch27)/2 ) Label P7       
+nch9 = ch10 - ( (ch9 + ch27)/2 ) Label PO7  
+nch10 = ch11 - ( (ch9 + ch27)/2 ) Label PO3  
+nch11 = ch12 - ( (ch9 + ch27)/2 ) Label O1 
+nch12 = ch13 - ( (ch9 + ch27)/2 ) Label Oz 
+nch13 = ch14 - ( (ch9 + ch27)/2 ) Label Pz 
+nch14 = ch15 - ( (ch9 + ch27)/2 ) Label CPz  
+nch15 = ch16 - ( (ch9 + ch27)/2 ) Label FP2  
+nch16 = ch17 - ( (ch9 + ch27)/2 ) Label Fz 
+nch17 = ch18 - ( (ch9 + ch27)/2 ) Label F4  
+nch18 = ch19 - ( (ch9 + ch27)/2 ) Label F8  
+nch19 = ch20 - ( (ch9 + ch27)/2 ) Label FC4  
+nch20 = ch21 - ( (ch9 + ch27)/2 ) Label FCz  
+nch21 = ch22 - ( (ch9 + ch27)/2 ) Label Cz  
+nch22 = ch23 - ( (ch9 + ch27)/2 ) Label C4 
+nch23 = ch24 - ( (ch9 + ch27)/2 ) Label C6 
+nch24 = ch25 - ( (ch9 + ch27)/2 ) Label P4 
+nch25 = ch26 - ( (ch9 + ch27)/2 ) Label P8 
+nch26 = ch28 - ( (ch9 + ch27)/2 ) Label PO8  
+nch27 = ch29 - ( (ch9 + ch27)/2 ) Label PO4  
+nch28 = ch30 - ( (ch9 + ch27)/2 ) Label O2
+nch29 = ch31 - ( (ch9 + ch27)/2 ) Label HEOG_left
+nch30 = ch32 - ( (ch9 + ch27)/2 ) Label HEOG_right
+nch31 = ch33 - ( (ch9 + ch27)/2 ) Label VEOG_lower
+nch32 = (ch31 - ch32) Label (uncorr) HEOG
+nch33 = (ch33 - ch16) Label (uncorr) VEOG
+
+
+

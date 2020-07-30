@@ -1,0 +1,63 @@
+bin 1
+Faces, Correct after AR
+.{1-40:f<0>}{t<200-1000>201:rt<"Faces Correct">}
+
+bin 2
+Cars, Correct after AR
+.{41-80:f<0>}{t<200-1000>201:rt<"Cars Correct">}
+
+bin 3
+Scrambled Faces, Correct after AR
+.{101-140:f<0>}{t<200-1000>201:rt<"Scrambled Faces Correct">}
+
+bin 4
+Scrambled Cars, Correct	after AR
+.{141-180:f<0>}{t<200-1000>201:rt<"Scrambled Cars Correct">}
+
+bin 5
+Faces, Incorrect after AR
+.{1-40:f<0>}{t<200-1000>202:rt<"Faces Incorrect">}
+
+bin 6
+Cars, Incorrect after AR
+.{41-80:f<0>}{t<200-1000>202:rt<"Cars Incorrect">}
+
+bin 7
+Scrambled Faces, Incorrect after AR
+.{101-140:f<0>}{t<200-1000>202:rt<"Scrambled Faces Incorrect">}
+
+bin 8
+Scrambled Cars, Incorrect	after AR
+.{141-180:f<0>}{t<200-1000>202:rt<"Scrambled Cars Incorrect">}
+
+bin 9
+Faces, Correct before AR
+.{1-40}{t<200-1000>201:rt<"Faces Correct">}
+
+bin 10
+Cars, Correct before AR
+.{41-80}{t<200-1000>201:rt<"Cars Correct">}
+
+bin 11
+Scrambled Faces, Correct before AR
+.{101-140}{t<200-1000>201:rt<"Scrambled Faces Correct">}
+
+bin 12
+Scrambled Cars, Correct	before AR
+.{141-180}{t<200-1000>201:rt<"Scrambled Cars Correct">}
+
+bin 13
+Faces, Incorrect before AR
+.{1-40}{t<200-1000>202:rt<"Faces Incorrect">}
+
+bin 14
+Cars, Incorrect before AR
+.{41-80}{t<200-1000>202:rt<"Cars Incorrect">}
+
+bin 15
+Scrambled Faces, Incorrect before AR
+.{101-140}{t<200-1000>202:rt<"Scrambled Faces Incorrect">}
+
+bin 16
+Scrambled Cars, Incorrect	before AR
+.{141-180}{t<200-1000>202:rt<"Scrambled Cars Incorrect">}

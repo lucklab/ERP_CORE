@@ -1,0 +1,7 @@
+Bin 1
+All Unrelated, Correct (Before AR, no RT filt)		
+.{221;222}{201:rt<"Unrelated Correct">}
+
+Bin 2
+All Related, Correct (Before AR, no RT filt)			
+.{211;212}{201:rt<"Related Correct">}

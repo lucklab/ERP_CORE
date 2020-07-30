@@ -1,0 +1,7 @@
+Bin 1	
+Deviants
+.{70}
+
+Bin 2		
+Standards, Preceded by a Standard
+{80}.{80}
