@@ -34,7 +34,7 @@ These resources are shared under the terms of a Creative Commons license ([CC BY
 The experiment control scripts were written in Presentation. Click Here to download the scripts and installation instructions. You must download Presentation to open and run these scripts. You can download a free trial version to see the scripts.
 
 ### Data and Analysis Scripts
-Analysis scripts can be found on GitHub, at: https://github.com/andrewxstewart/ERP_CORE or in [this zip file](https://github.com/andrewxstewart/ERP_CORE/archive/master.zip).
+Analysis scripts can be found on GitHub, at: https://github.com/lucklab/ERP_CORE or in [this zip file](https://github.com/lucklab/ERP_CORE/archive/master.zip).
 
 We provide data from 40 neurotypical adults, along with the EEGLAB/ERPLAB scripts for analyzing the data. Separate data files and scripts are provided for each of the 7 components. The data files are very large and may take a long time to download, so we have provided the data separately for each component, with two formats: (a) Just the initial raw EEG files and processing scripts, (b) All data files, including the results of intermediate processing steps, along with the processing scripts. The former is much smaller than the latter, and the scripts can create the files for the intermediate processing steps. However, the latter option can be useful if you have trouble getting the scripts to run or don’t want to run all of the processing stages. In addition, we have provided a zipped version (so you can download all of the files together) and an unzipped version (so you can find individual files).
 
