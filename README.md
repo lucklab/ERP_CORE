@@ -41,10 +41,17 @@ We also host these datasets on the OSF.io and OpenNeuro.
 Find the datasets for all 40 subjects and components on OSF at https://osf.io/thsqg
 
 We also host the same datasets in an a BIDS-compatible format on OpenNeuro:
+
 ERN - https://openneuro.org/datasets/ds003063
+
 LRP - https://openneuro.org/datasets/ds003064
+
 MMN - https://openneuro.org/datasets/ds003065
+
 N2pc - https://openneuro.org/datasets/ds003066
+
 N170 - https://openneuro.org/datasets/ds003067
+
 N400 - https://openneuro.org/datasets/ds003068
+
 P3 - https://openneuro.org/datasets/ds003069
