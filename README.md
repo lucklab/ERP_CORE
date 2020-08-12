@@ -36,12 +36,15 @@ The experiment control scripts were written in Presentation. Click Here to downl
 ### Data and Analysis Scripts
 Analysis scripts can be found on GitHub, at: https://github.com/lucklab/ERP_CORE or in [this zip file](https://github.com/lucklab/ERP_CORE/archive/master.zip).
 
-We provide data from 40 neurotypical adults, along with the EEGLAB/ERPLAB scripts for analyzing the data. Separate data files and scripts are provided for each of the 7 components. The data files are very large and may take a long time to download, so we have provided the data separately for each component, with two formats: (a) Just the initial raw EEG files and processing scripts, (b) All data files, including the results of intermediate processing steps, along with the processing scripts. The former is much smaller than the latter, and the scripts can create the files for the intermediate processing steps. However, the latter option can be useful if you have trouble getting the scripts to run or don’t want to run all of the processing stages. In addition, we have provided a zipped version (so you can download all of the files together) and an unzipped version (so you can find individual files).
+We also host these datasets on the OSF.io and OpenNeuro.
 
-Warning: The zipped files may take several minutes or even hours to download!
+Find the datasets for all 40 subjects and components on OSF at https://osf.io/thsqg
 
-Click on the following links for the raw EEG files and processing scripts
-
-Zipped Folders (1.8-3.6 GB each):  [N170](https://drive.google.com/open?id=1CIw8tlnRUNURYdEBhTEvhtBycyKfGuvV)  [MMN](https://drive.google.com/open?id=18ZeEYC7mfUclgQjcAbHhaNuI-v4acAmi)  [N2pc](https://drive.google.com/open?id=1XwzMi0OT1uO_reeVnOLMg_dMaiRvQnlv)  [N400](https://drive.google.com/open?id=1h7VE4IRWGRid9iPA8_gz37c17w62O-VI) [P3](https://drive.google.com/open?id=18bgQ0wx90zTxnDFUNVxA6u2GNyLgnWMA)  [LRP](https://drive.google.com/open?id=1FRu2rqVffN8ROV7ngs8muWEEzERTqEoV)  [ERN](https://drive.google.com/open?id=11CAMZtEHX7yfVv5J1koxvLSpgWoD9mz9)
-
-We also host these datasets on OSF and OpenNeuro.
+We also host the same datasets in an a BIDS-compatible format on OpenNeuro:
+ERN - https://openneuro.org/datasets/ds003063
+LRP - https://openneuro.org/datasets/ds003064
+MMN - https://openneuro.org/datasets/ds003065
+N2pc - https://openneuro.org/datasets/ds003066
+N170 - https://openneuro.org/datasets/ds003067
+N400 - https://openneuro.org/datasets/ds003068
+P3 - https://openneuro.org/datasets/ds003069
